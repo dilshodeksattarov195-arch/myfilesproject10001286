@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggerrync",
+        "uuid": 9391658,
+        "checksum": "0tleg6"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
